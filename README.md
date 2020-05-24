@@ -1,2 +1,2 @@
-# ML_pj
-Fraud Detection Using Python
+# Machine Learning Project
+- Fraud Detection Using Python
