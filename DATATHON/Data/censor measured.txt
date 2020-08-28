@@ -1,0 +1,362 @@
+1A
+16:59:08.213 -> Temperature in Celsius : 27.29
+16:59:08.247 -> Temperature in Fahrenheit : 81.13
+16:59:08.283 -> Relative Humidity : 69.20
+16:59:08.283 -> 
+17:00:00.636 -> Temperature in Celsius : 27.25
+17:00:00.672 -> Temperature in Fahrenheit : 81.05
+17:00:00.707 -> Relative Humidity : 69.76
+17:00:00.707 -> 
+17:00:11.173 -> Temperature in Celsius : 27.28
+17:00:11.212 -> Temperature in Fahrenheit : 81.10
+17:00:11.247 -> Relative Humidity : 69.91
+17:00:11.247 -> 
+17:00:21.755 -> Temperature in Celsius : 27.25
+17:00:21.755 -> Temperature in Fahrenheit : 81.05
+17:00:21.791 -> Relative Humidity : 70.01
+17:00:21.791 -> 
+17:00:32.302 -> Temperature in Celsius : 27.18
+17:00:32.337 -> Temperature in Fahrenheit : 80.93
+17:00:32.373 -> Relative Humidity : 69.94
+17:00:32.373 -> 
+17:00:42.831 -> Temperature in Celsius : 27.05
+17:00:42.868 -> Temperature in Fahrenheit : 80.70
+17:00:42.906 -> Relative Humidity : 69.80
+17:00:42.906 -> 
+17:00:53.384 -> Temperature in Celsius : 26.87
+17:00:53.419 -> Temperature in Fahrenheit : 80.37
+17:00:53.456 -> Relative Humidity : 70.28
+17:00:53.456 -> 
+17:01:03.946 -> Temperature in Celsius : 26.76
+17:01:03.981 -> Temperature in Fahrenheit : 80.17
+17:01:04.018 -> Relative Humidity : 70.75
+17:01:04.018 -> 
+17:01:14.483 -> Temperature in Celsius : 26.70
+17:01:14.516 -> Temperature in Fahrenheit : 80.06
+17:01:14.556 -> Relative Humidity : 70.88
+
+
+1B
+17:02:17.800 -> Temperature in Celsius : 26.27
+17:02:17.834 -> Temperature in Fahrenheit : 79.28
+17:02:17.871 -> Relative Humidity : 71.84
+17:02:17.871 -> 
+17:02:28.373 -> Temperature in Celsius : 26.29
+17:02:28.410 -> Temperature in Fahrenheit : 79.33
+17:02:28.410 -> Relative Humidity : 71.58
+17:02:28.410 -> 
+17:02:38.907 -> Temperature in Celsius : 26.31
+17:02:38.943 -> Temperature in Fahrenheit : 79.36
+17:02:38.978 -> Relative Humidity : 71.28
+17:02:38.978 -> 
+17:02:49.476 -> Temperature in Celsius : 26.27
+17:02:49.509 -> Temperature in Fahrenheit : 79.28
+17:02:49.544 -> Relative Humidity : 71.02
+17:02:49.544 -> 
+17:03:00.027 -> Temperature in Celsius : 26.29
+17:03:00.062 -> Temperature in Fahrenheit : 79.33
+17:03:00.101 -> Relative Humidity : 71.34
+17:03:00.101 -> 
+17:03:10.588 -> Temperature in Celsius : 26.41
+17:03:10.588 -> Temperature in Fahrenheit : 79.53
+17:03:10.624 -> Relative Humidity : 70.93
+17:03:10.624 -> 
+17:03:21.133 -> Temperature in Celsius : 26.55
+17:03:21.170 -> Temperature in Fahrenheit : 79.78
+17:03:21.205 -> Relative Humidity : 70.48
+17:03:21.205 -> 
+
+
+1C 계단
+17:04:13.868 -> Temperature in Celsius : 26.14
+17:04:13.902 -> Temperature in Fahrenheit : 79.05
+17:04:13.935 -> Relative Humidity : 72.99
+17:04:13.935 -> 
+17:04:24.422 -> Temperature in Celsius : 26.14
+17:04:24.456 -> Temperature in Fahrenheit : 79.05
+17:04:24.494 -> Relative Humidity : 73.91
+17:04:24.494 -> 
+17:04:34.998 -> Temperature in Celsius : 26.20
+17:04:35.031 -> Temperature in Fahrenheit : 79.15
+17:04:35.067 -> Relative Humidity : 73.82
+17:04:35.067 -> 
+17:04:45.535 -> Temperature in Celsius : 26.32
+17:04:45.570 -> Temperature in Fahrenheit : 79.38
+17:04:45.604 -> Relative Humidity : 73.37
+17:04:45.604 -> 
+17:04:56.074 -> Temperature in Celsius : 26.45
+17:04:56.107 -> Temperature in Fahrenheit : 79.61
+17:04:56.141 -> Relative Humidity : 73.07
+17:04:56.141 -> 
+17:05:06.644 -> Temperature in Celsius : 26.48
+17:05:06.681 -> Temperature in Fahrenheit : 79.66
+17:05:06.715 -> Relative Humidity : 72.50
+17:05:06.715 -> 
+
+1D 계단 옆
+17:05:48.835 -> Temperature in Celsius : 25.76
+17:05:48.869 -> Temperature in Fahrenheit : 78.37
+17:05:48.903 -> Relative Humidity : 68.68
+17:05:48.903 -> 
+17:05:59.406 -> Temperature in Celsius : 25.79
+17:05:59.441 -> Temperature in Fahrenheit : 78.41
+17:05:59.476 -> Relative Humidity : 68.11
+17:05:59.476 -> 
+17:06:09.959 -> Temperature in Celsius : 25.90
+17:06:09.995 -> Temperature in Fahrenheit : 78.62
+17:06:10.032 -> Relative Humidity : 68.06
+17:06:10.032 -> 
+17:06:20.499 -> Temperature in Celsius : 26.04
+17:06:20.532 -> Temperature in Fahrenheit : 78.87
+17:06:20.567 -> Relative Humidity : 67.38
+17:06:20.567 -> 
+17:06:31.059 -> Temperature in Celsius : 26.24
+17:06:31.093 -> Temperature in Fahrenheit : 79.23
+17:06:31.129 -> Relative Humidity : 66.72
+17:06:31.129 -> 
+17:06:41.602 -> Temperature in Celsius : 26.41
+17:06:41.637 -> Temperature in Fahrenheit : 79.53
+17:06:41.673 -> Relative Humidity : 66.18
+17:06:41.673 -> 
+
+
+B1A
+17:08:06.032 -> Temperature in Celsius : 25.80
+17:08:06.071 -> Temperature in Fahrenheit : 78.44
+17:08:06.104 -> Relative Humidity : 72.80
+17:08:06.104 -> 
+17:08:16.584 -> Temperature in Celsius : 25.98
+17:08:16.621 -> Temperature in Fahrenheit : 78.77
+17:08:16.655 -> Relative Humidity : 73.52
+17:08:16.655 -> 
+17:08:27.115 -> Temperature in Celsius : 26.42
+17:08:27.155 -> Temperature in Fahrenheit : 79.56
+17:08:27.189 -> Relative Humidity : 73.57
+17:08:27.189 -> 
+17:08:37.671 -> Temperature in Celsius : 26.86
+17:08:37.707 -> Temperature in Fahrenheit : 80.35
+17:08:37.745 -> Relative Humidity : 73.26
+17:08:37.745 -> 
+17:08:48.236 -> Temperature in Celsius : 27.20
+17:08:48.274 -> Temperature in Fahrenheit : 80.95
+17:08:48.308 -> Relative Humidity : 72.57
+17:08:48.308 -> 
+17:08:58.804 -> Temperature in Celsius : 27.53
+17:08:58.804 -> Temperature in Fahrenheit : 81.56
+17:08:58.842 -> Relative Humidity : 70.63
+17:08:58.842 -> 
+
+B1C
+17:09:51.555 -> Temperature in Celsius : 26.21
+17:09:51.594 -> Temperature in Fahrenheit : 79.18
+17:09:51.630 -> Relative Humidity : 76.37
+17:09:51.630 -> 
+17:10:02.103 -> Temperature in Celsius : 26.53
+17:10:02.138 -> Temperature in Fahrenheit : 79.76
+17:10:02.176 -> Relative Humidity : 76.30
+17:10:02.176 -> 
+17:10:12.641 -> Temperature in Celsius : 26.89
+17:10:12.679 -> Temperature in Fahrenheit : 80.39
+17:10:12.717 -> Relative Humidity : 76.24
+17:10:12.717 -> 
+17:10:23.217 -> Temperature in Celsius : 27.37
+17:10:23.251 -> Temperature in Fahrenheit : 81.26
+17:10:23.288 -> Relative Humidity : 76.13
+17:10:23.288 -> 
+17:10:33.747 -> Temperature in Celsius : 27.72
+17:10:33.784 -> Temperature in Fahrenheit : 81.89
+17:10:33.817 -> Relative Humidity : 74.13
+17:10:33.817 -> 
+
+
+B1B
+17:11:47.629 -> Temperature in Celsius : 27.73
+17:11:47.664 -> Temperature in Fahrenheit : 81.91
+17:11:47.700 -> Relative Humidity : 73.35
+17:11:47.700 -> 
+17:11:58.166 -> Temperature in Celsius : 28.14
+17:11:58.200 -> Temperature in Fahrenheit : 82.65
+17:11:58.236 -> Relative Humidity : 72.31
+17:11:58.236 -> 
+17:12:08.723 -> Temperature in Celsius : 28.35
+17:12:08.758 -> Temperature in Fahrenheit : 83.03
+17:12:08.794 -> Relative Humidity : 71.29
+17:12:08.794 -> 
+17:12:19.285 -> Temperature in Celsius : 28.56
+17:12:19.320 -> Temperature in Fahrenheit : 83.41
+17:12:19.353 -> Relative Humidity : 70.69
+
+
+2B
+17:13:43.678 -> Temperature in Celsius : 26.15
+17:13:43.712 -> Temperature in Fahrenheit : 79.08
+17:13:43.749 -> Relative Humidity : 75.04
+17:13:43.749 -> 
+17:13:54.248 -> Temperature in Celsius : 26.56
+17:13:54.282 -> Temperature in Fahrenheit : 79.81
+17:13:54.317 -> Relative Humidity : 74.64
+17:13:54.317 -> 
+17:14:04.798 -> Temperature in Celsius : 26.93
+17:14:04.837 -> Temperature in Fahrenheit : 80.47
+17:14:04.873 -> Relative Humidity : 73.55
+17:14:04.873 -> 
+17:14:15.343 -> Temperature in Celsius : 27.31
+17:14:15.380 -> Temperature in Fahrenheit : 81.15
+17:14:15.419 -> Relative Humidity : 72.46
+
+2C
+17:15:18.658 -> Temperature in Celsius : 27.49
+17:15:18.695 -> Temperature in Fahrenheit : 81.48
+17:15:18.734 -> Relative Humidity : 71.80
+17:15:18.734 -> 
+17:15:29.229 -> Temperature in Celsius : 27.83
+17:15:29.266 -> Temperature in Fahrenheit : 82.09
+17:15:29.266 -> Relative Humidity : 70.79
+17:15:29.266 -> 
+17:15:39.780 -> Temperature in Celsius : 28.04
+17:15:39.813 -> Temperature in Fahrenheit : 82.47
+17:15:39.850 -> Relative Humidity : 70.00
+17:15:39.850 -> 
+17:15:50.327 -> Temperature in Celsius : 28.34
+17:15:50.361 -> Temperature in Fahrenheit : 83.00
+17:15:50.395 -> Relative Humidity : 69.21
+17:15:50.395 -> 
+17:16:00.873 -> Temperature in Celsius : 28.58
+17:16:00.910 -> Temperature in Fahrenheit : 83.44
+17:16:00.944 -> Relative Humidity : 68.94
+17:16:00.944 -> 
+
+
+2A
+17:16:43.078 -> Temperature in Celsius : 28.00
+17:16:43.112 -> Temperature in Fahrenheit : 82.40
+17:16:43.146 -> Relative Humidity : 70.15
+17:16:43.146 -> 
+17:16:53.616 -> Temperature in Celsius : 28.11
+17:16:53.651 -> Temperature in Fahrenheit : 82.60
+17:16:53.687 -> Relative Humidity : 70.19
+17:16:53.687 -> 
+17:17:04.167 -> Temperature in Celsius : 28.30
+17:17:04.200 -> Temperature in Fahrenheit : 82.93
+17:17:04.235 -> Relative Humidity : 69.72
+17:17:04.235 -> 
+17:17:14.721 -> Temperature in Celsius : 28.50
+17:17:14.754 -> Temperature in Fahrenheit : 83.31
+17:17:14.787 -> Relative Humidity : 69.13
+17:17:14.787 -> 
+
+
+3A
+17:20:35.235 -> Temperature in Celsius : 27.15
+17:20:35.273 -> Temperature in Fahrenheit : 80.87
+17:20:35.273 -> Relative Humidity : 69.88
+17:20:35.273 -> 
+17:20:45.762 -> Temperature in Celsius : 27.45
+17:20:45.797 -> Temperature in Fahrenheit : 81.41
+17:20:45.830 -> Relative Humidity : 68.91
+17:20:45.830 -> 
+17:20:56.342 -> Temperature in Celsius : 27.46
+17:20:56.342 -> Temperature in Fahrenheit : 81.44
+17:20:56.379 -> Relative Humidity : 68.35
+17:20:56.379 -> 
+17:21:06.871 -> Temperature in Celsius : 27.58
+17:21:06.909 -> Temperature in Fahrenheit : 81.64
+17:21:06.942 -> Relative Humidity : 68.18
+17:21:06.942 -> 
+17:21:17.424 -> Temperature in Celsius : 27.60
+17:21:17.462 -> Temperature in Fahrenheit : 81.69
+17:21:17.499 -> Relative Humidity : 67.94
+17:21:17.499 -> 
+
+
+17:21:38.543 -> Temperature in Celsius : 27.75
+17:21:38.582 -> Temperature in Fahrenheit : 81.94
+17:21:38.622 -> Relative Humidity : 67.87
+17:21:38.622 -> 
+
+3B
+17:22:31.307 -> Temperature in Celsius : 27.41
+17:22:31.342 -> Temperature in Fahrenheit : 81.34
+17:22:31.375 -> Relative Humidity : 68.93
+17:22:31.375 -> 
+17:22:41.858 -> Temperature in Celsius : 27.55
+17:22:41.894 -> Temperature in Fahrenheit : 81.59
+17:22:41.931 -> Relative Humidity : 68.56
+17:22:41.931 -> 
+17:22:52.415 -> Temperature in Celsius : 27.56
+17:22:52.415 -> Temperature in Fahrenheit : 81.61
+17:22:52.450 -> Relative Humidity : 68.35
+17:22:52.450 -> 
+17:23:02.938 -> Temperature in Celsius : 27.59
+17:23:02.975 -> Temperature in Fahrenheit : 81.66
+17:23:03.011 -> Relative Humidity : 68.21
+17:23:03.011 -> 
+17:23:13.492 -> Temperature in Celsius : 27.62
+17:23:13.527 -> Temperature in Fahrenheit : 81.71
+17:23:13.560 -> Relative Humidity : 68.40
+17:23:13.560 -> 
+17:23:24.066 -> Temperature in Celsius : 27.70
+17:23:24.099 -> Temperature in Fahrenheit : 81.86
+17:23:24.132 -> Relative Humidity : 68.11
+17:23:24.132 -> 
+17:23:34.599 -> Temperature in Celsius : 28.05
+17:23:34.634 -> Temperature in Fahrenheit : 82.50
+17:23:34.667 -> Relative Humidity : 67.55
+
+3C
+17:24:37.937 -> Temperature in Celsius : 27.56
+17:24:37.937 -> Temperature in Fahrenheit : 81.61
+17:24:37.971 -> Relative Humidity : 66.23
+17:24:37.971 -> 
+17:24:48.454 -> Temperature in Celsius : 27.86
+17:24:48.488 -> Temperature in Fahrenheit : 82.14
+17:24:48.522 -> Relative Humidity : 66.40
+17:24:48.522 -> 
+17:24:59.036 -> Temperature in Celsius : 28.17
+17:24:59.071 -> Temperature in Fahrenheit : 82.70
+17:24:59.106 -> Relative Humidity : 65.70
+17:24:59.106 -> 
+17:25:09.561 -> Temperature in Celsius : 28.38
+17:25:09.595 -> Temperature in Fahrenheit : 83.08
+17:25:09.628 -> Relative Humidity : 64.63
+17:25:09.628 -> 
+17:25:20.141 -> Temperature in Celsius : 28.65
+17:25:20.177 -> Temperature in Fahrenheit : 83.57
+17:25:20.177 -> Relative Humidity : 64.18
+17:25:20.177 -> 
+
+
+5A
+17:27:16.208 -> Temperature in Celsius : 27.08
+17:27:16.242 -> Temperature in Fahrenheit : 80.75
+17:27:16.275 -> Relative Humidity : 74.59
+17:27:16.275 -> 
+17:27:26.750 -> Temperature in Celsius : 27.38
+17:27:26.784 -> Temperature in Fahrenheit : 81.28
+17:27:26.821 -> Relative Humidity : 74.54
+17:27:26.821 -> 
+17:27:37.315 -> Temperature in Celsius : 27.69
+17:27:37.350 -> Temperature in Fahrenheit : 81.84
+17:27:37.387 -> Relative Humidity : 73.76
+
+
+17:27:47.857 -> Temperature in Celsius : 27.84
+17:27:47.896 -> Temperature in Fahrenheit : 82.11
+17:27:47.930 -> Relative Humidity : 73.23
+17:27:47.930 -> 
+
+
+5층 뒤
+17:29:12.269 -> Temperature in Celsius : 27.03
+17:29:12.305 -> Temperature in Fahrenheit : 80.65
+17:29:12.339 -> Relative Humidity : 72.55
+17:29:12.339 -> 
+17:29:22.819 -> Temperature in Celsius : 27.08
+17:29:22.855 -> Temperature in Fahrenheit : 80.75
+17:29:22.888 -> Relative Humidity : 72.10
+17:29:22.888 -> 
+17:29:33.369 -> Temperature in Celsius : 27.28
+17:29:33.406 -> Temperature in Fahrenheit : 81.10
+17:29:33.440 -> Relative Humidity : 71.95
+17:29:33.440 -> 
+
