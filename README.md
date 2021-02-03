@@ -2,7 +2,7 @@
 
 **&#x1F4D9; 2020 KU 스마트 캠퍼스 해커톤**
 ---------------------------------------------------
-#### *SK미래관 SSS지수 분석 예측 및 시각화*
+#### *SK미래관 SSS지수 분석 앱 개발*
 **최우수상 수상작**
 
 ![Alt text](https://raw.githubusercontent.com/Soyeon-ErinLee/KU-2020-SMART-CAMPUS-DATATHON/master/SSS.png)
