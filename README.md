@@ -2,7 +2,7 @@
 
 **&#x1F4D9; 2020 KU 스마트 캠퍼스 해커톤**
 ---------------------------------------------------
-#### *SK미래관 SSS지수 분석 앱 개발: 개인 맞춤형 학습공간 추천 시스템*
+#### SK미래관 SSS지수 분석 앱 개발: 개인 맞춤형 학습공간 추천 시스템
 **최우수상 수상작**
 
 ![Alt text](https://raw.githubusercontent.com/Soyeon-ErinLee/KU-2020-SMART-CAMPUS-DATATHON/master/SSS.png)
